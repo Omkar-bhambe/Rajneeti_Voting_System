@@ -10,6 +10,7 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
 ## 🚀 Features
 
 - ✅ Admin and Voter registration & login
+- 🤖 Integrated Tour Guide ChatBot
 - 🔐 Secure session handling using Flask sessions
 - 🔄 Password recovery system for both roles
 - 🗳️ Voting functionality with candidate vote tracking
