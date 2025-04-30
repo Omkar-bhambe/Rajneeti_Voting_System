@@ -1,13 +1,14 @@
 import pymysql
 
+# Once created the database using mysql update the keywords and credentials accordingly for smooth working
 class VoterSystemDatabase:
 
     def __init__(self):
         self.conn = pymysql.connect(
-            host='localhost',
-            user='root',
-            password='Samruddhi@2004',
-            database='voter_system'
+            host='Host_Name',
+            user='Own_User',
+            password='Your_Own_Password',
+            database='Name_Of_The_Database'
         )
         self.cursor = self.conn.cursor()
 
