@@ -4,7 +4,7 @@ from VoterDb import VoterSystemDatabase
 
 
 app = Flask(__name__)
-app.secret_key = 'weiwh1912kw5451665465164h1'
+app.secret_key = 'UPDATE_SECRET_KEY'
 
 db = VoterSystemDatabase()
 
