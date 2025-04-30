@@ -70,3 +70,6 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
 ## 📸 Overview of the system
 <h4>Home Page:</h4> 
    <img src="https://github.com/Omkar-bhambe/Rajneeti_Voting_System/blob/main/Overview/Home%20Page.png">
+
+<h4>Voter Registeration:</h4>
+   <img src="">
