@@ -87,4 +87,4 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
    <img src="https://github.com/Omkar-bhambe/Rajneeti_Voting_System/blob/main/Overview/Admin%20Login.png">
 
 <h4>Candidate Registeration Window:</h4>
-   <img src="">
+   <img src="https://github.com/Omkar-bhambe/Rajneeti_Voting_System/blob/main/Overview/Admin%20Candidate%20Registration.png">
