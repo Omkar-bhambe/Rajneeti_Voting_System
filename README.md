@@ -30,6 +30,6 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/voter_system.git
+   git clone https://github.com/omkar-bhambe/voter_system.git
    cd voter_system
 
