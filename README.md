@@ -65,3 +65,5 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
    - Cast vote once per session
    - Forgot password option
    - Secure voting with validation
+
+## 📸 Screenshots
