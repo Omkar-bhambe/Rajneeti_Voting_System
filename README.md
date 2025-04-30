@@ -33,6 +33,22 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
    git clone https://github.com/omkar-bhambe/voter_system.git
    cd voter_system
 
-```python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate```
+2. Setup a virtual environment
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Windows: venv\Scripts\activate
 
+3. Install dependencies
+   ```bash
+      pip install -r requirements.txt
+
+4. Configure MySQL
+  - Create a database named voter_db
+  - Update credentials in VoterDb.py
+
+5. Run the app
+   ```bash 
+      python app.py
+
+6. Access the app 
+   Visit ```http://localhost:5000 in your browser
