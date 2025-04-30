@@ -50,5 +50,18 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
    ```bash 
       python app.py
 
-6. Access the app 
-   Visit ```http://localhost:5000 in your browser
+## 🔐 Admin Panel
+
+- URL: /admin
+- Features:
+   - View registered voters
+   - View election results 
+   - Register new and unique candidates
+   - Starting of new session
+
+## 🧪 Voter Panel
+- URL: /voter/login
+- Features:
+   - Cast vote once per session
+   - Forgot password option
+   - Secure voting with validation
