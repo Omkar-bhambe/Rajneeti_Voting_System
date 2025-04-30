@@ -82,3 +82,6 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
 
 <h4>Vote Casting Interface:</h4>
    <img src="https://github.com/Omkar-bhambe/Rajneeti_Voting_System/blob/main/Overview/Cast%20Vote.png">
+
+<h4>Admin Login:</h4>
+   <img src="">
