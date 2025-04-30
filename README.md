@@ -66,4 +66,4 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
    - Forgot password option
    - Secure voting with validation
 
-## 📸 Screenshots
+## 📸 Overview of the system
