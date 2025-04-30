@@ -1,2 +1,8 @@
-# Rajneeti_Voting_System
-This repository comprises the details and code snippet files for the system named Rajneeti which is a voting web-based application used for voting and managing the voting process seamlessly 
+# 🗳️ Rajneeti: Voter Management & Voting System
+
+A web-based voting platform built with **Flask**, designed to securely manage admin and voter registrations, conduct elections, and visualize results. This system includes role-based authentication, password recovery, and vote tracking features with a clean frontend interface using HTML, CSS, and Tailwind.
+
+---
+
+## 📁 Project Structure
+
