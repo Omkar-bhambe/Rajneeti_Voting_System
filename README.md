@@ -15,7 +15,7 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
 - 🗳️ Voting functionality with candidate vote tracking
 - 📊 Real-time result visualization with charts
 - 🧭 Navigation-friendly user interface
-- 🎨 Tailwind CSS-based styling
+- 🎨 Bootstrap and Tailwind CSS-based styling
 
 ---
 
