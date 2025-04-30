@@ -24,4 +24,12 @@ A web-based voting platform built with **Flask**, designed to securely manage ad
 - **Frontend**: HTML, CSS, Tailwind
 - **Backend**: Python (Flask)
 - **Database**: MySQL (via `pymysql`)
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/voter_system.git
+   cd voter_system
 
